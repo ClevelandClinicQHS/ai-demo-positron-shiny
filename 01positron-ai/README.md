@@ -50,3 +50,7 @@ We can then enter a prompt to actually alter the code in the live script. In the
 ![](inlinepromptfix.png)
 
 The coolest part is that they designed this intelligently: it will _tentatively_ make the suggested changes, but requires you to accept them before actually altering your script. So you can always revert back if you don't like what it gave you.
+
+## Databot
+
+This is a (currently experimental) tool that is supposed to more "autonomously" help with (exploratory) data analysis. You can read more about it here: https://positron.posit.co/databot.html
